@@ -1,0 +1,33 @@
+.pet
+{
+    border: solid;
+    padding: 5px;
+    margin: 5px;
+    float: none;
+}
+
+#btn3
+{
+    margin: 3px;
+}
+
+p{
+    margin: 3px;
+    float: left;
+}
+
+input{
+    margin: 3px;
+}
+
+header{
+    font-weight: bold;
+}
+
+section{
+    margin: 20px;
+}
+
+h1{
+    
+}
